@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "noteblockheads",
+  "version": "${version}",
+  "name": "Noteblock Heads",
+  "description": "There's nothing here",
+  "authors": [
+    "Ivan-Khar"
+  ],
+  "contact": {
+    "homepage": "https://theaq.one",
+    "sources": "https://github.com/Ivan-Khar"
+  },
+  "license": "CC BY-NC 3.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.aqupd.noteblockheads.Main"
+    ]
+  },
+  "mixins": [
+    "noteblockheads.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  }
+}
