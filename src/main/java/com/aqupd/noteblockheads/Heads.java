@@ -14,7 +14,7 @@ public class Heads {
     put("Cat", SoundEvents.ENTITY_CAT_AMBIENT);
     put("Spider", SoundEvents.ENTITY_SPIDER_AMBIENT);
     put("Chicken", SoundEvents.ENTITY_CHICKEN_AMBIENT);
-    put("Cod", SoundEvents.ENTITY_COD_AMBIENT);
+    put("Cod", SoundEvents.ENTITY_COD_FLOP);
     put("Cow", SoundEvents.ENTITY_COW_AMBIENT);
     put("Charged Creeper", SoundEvents.ENTITY_CREEPER_PRIMED);
     put("Dolphin", SoundEvents.ENTITY_DOLPHIN_AMBIENT);
@@ -50,10 +50,10 @@ public class Heads {
     put("Piglin Brute", SoundEvents.ENTITY_PIGLIN_BRUTE_AMBIENT);
     put("Pillager", SoundEvents.ENTITY_PILLAGER_AMBIENT);
     put("Polar Bear", SoundEvents.ENTITY_POLAR_BEAR_AMBIENT);
-    put("Pufferfish", SoundEvents.ENTITY_PUFFER_FISH_AMBIENT);
+    put("Pufferfish", SoundEvents.ENTITY_PUFFER_FISH_FLOP);
     put("Rabbit", SoundEvents.ENTITY_RABBIT_AMBIENT);
     put("Ravager", SoundEvents.ENTITY_RAVAGER_AMBIENT);
-    put("Salmon", SoundEvents.ENTITY_SALMON_AMBIENT);
+    put("Salmon", SoundEvents.ENTITY_SALMON_FLOP);
     put("Sheep", SoundEvents.ENTITY_SHEEP_AMBIENT);
     put("Shulker", SoundEvents.ENTITY_SHULKER_AMBIENT);
     put("Silverfish", SoundEvents.ENTITY_SILVERFISH_AMBIENT);
@@ -64,7 +64,7 @@ public class Heads {
     put("Stray", SoundEvents.ENTITY_STRAY_AMBIENT);
     put("Strider", SoundEvents.ENTITY_STRIDER_AMBIENT);
     put("Tadpole", SoundEvents.ENTITY_TADPOLE_FLOP);
-    put("Tropical Fish", SoundEvents.ENTITY_TROPICAL_FISH_AMBIENT);
+    put("Tropical Fish", SoundEvents.ENTITY_TROPICAL_FISH_FLOP);
     put("Turtle", SoundEvents.ENTITY_TURTLE_AMBIENT_LAND);
     put("Vex", SoundEvents.ENTITY_VEX_AMBIENT);
     put("Villager", SoundEvents.ENTITY_VILLAGER_AMBIENT);

@@ -3,7 +3,7 @@
   "id": "noteblockheads",
   "version": "${version}",
   "name": "Noteblock Heads",
-  "description": "There's nothing here",
+  "description": "Head on top of noteblock makes entity sounds instead of notes ",
   "authors": [
     "Ivan-Khar"
   ],
